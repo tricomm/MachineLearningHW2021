@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4607a965-c4f2-443c-aeae-796b4d18d6cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1pWpzNvSKhLQEYZ72oJ2cvvvIGQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.multinomial_model">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="HW1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multinomial_model.py" />
+      <option name="PARAMETERS" value="--m 1 --n 3 --d 1 --data /data.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multinomial_model (1)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HW1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multinomial_model.py" />
+      <option name="PARAMETERS" value="--m 1 --n 3 --d 1 --data /data.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multinomial_model" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HW1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multinomial_model.py" />
+      <option name="PARAMETERS" value="--m 1 --n 3 --d 1 --data data.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multinomial_model" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HW1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multinomial_model.py" />
+      <option name="PARAMETERS" value="--m 1 --n 3 --d 1 --data data.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.multinomial_model" />
+      <item itemvalue="Python.multinomial_model (1)" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4607a965-c4f2-443c-aeae-796b4d18d6cc" name="Default Changelist" comment="" />
+      <created>1615308962197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615308962197</updated>
+      <workItem from="1615308966167" duration="3287000" />
+      <workItem from="1615877847151" duration="2125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="57" y="45" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615881289784">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="57" y="45" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1615881289784" />
+    <state x="299" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1615877889949">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="299" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1280.777@0.23.1280.777" timestamp="1615877889949" />
+    <state width="1038" height="197" key="GridCell.Tab.0.bottom" timestamp="1615881518334">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1038" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1615881518334" />
+    <state width="1038" height="197" key="GridCell.Tab.0.center" timestamp="1615881518332">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1038" height="197" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1615881518332" />
+    <state width="1038" height="197" key="GridCell.Tab.0.left" timestamp="1615881518332">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1038" height="197" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1615881518332" />
+    <state width="1038" height="197" key="GridCell.Tab.0.right" timestamp="1615881518333">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1038" height="197" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1615881518333" />
+    <state width="1238" height="245" key="GridCell.Tab.1.bottom" timestamp="1615312556769">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="245" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1615312556769" />
+    <state width="1238" height="245" key="GridCell.Tab.1.center" timestamp="1615312556768">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="245" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1615312556768" />
+    <state width="1238" height="245" key="GridCell.Tab.1.left" timestamp="1615312556767">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="245" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1615312556767" />
+    <state width="1238" height="245" key="GridCell.Tab.1.right" timestamp="1615312556768">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="245" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1615312556768" />
+    <state x="43" y="50" key="SettingsEditor" timestamp="1615881176109">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="43" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1615881176109" />
+    <state x="294" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1615308966240">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="294" y="246" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1615308966240" />
+    <state x="303" y="140" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1615880235742">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="303" y="140" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.23.1280.777@0.23.1280.777" timestamp="1615880235742" />
+    <state x="431" y="190" key="ftp.server.browser" timestamp="1615881140700">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="431" y="190" key="ftp.server.browser/0.23.1280.777@0.23.1280.777" timestamp="1615881140700" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="line[1]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HW1$multinomial_model__1_.coverage" NAME="multinomial_model (1) Coverage Results" MODIFIED="1615311876370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW1$multinomial_model.coverage" NAME="multinomial_model Coverage Results" MODIFIED="1615881294047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
